@@ -1,5 +1,4 @@
-
-   {
+ {
    "http_status": 200,
    "name": "HERMAN",
    "resi": "AKX23859",
@@ -33,7 +32,7 @@
        "date": "Jul 31, 2018",
        "time": "08:25 pm",
        "status": "intransit",
-       "position": ""
+       "position": "finish"
      }
    ]
   }
