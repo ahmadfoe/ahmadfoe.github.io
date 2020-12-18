@@ -7,7 +7,7 @@
       {
        "date": "Jul 31, 2018",
        "time": "08:25 pm",
-       "status": "intransit",
+       "status": "confirmed order",
        "position": "Diterima di sales counter"
      },
      {
@@ -39,7 +39,6 @@
        "time": "14:10 am",
        "status": "delivered",
        "position": "alamat tujuan"
-     },
-
+     }
    ]
   }
