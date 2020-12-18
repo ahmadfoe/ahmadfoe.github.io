@@ -4,17 +4,11 @@
    "resi": "AKX23859",
    "item": "Pajak Tahunan",
    "track":[
-     {
-       "date": "Aug 04, 2018",
-       "time": "09:59 am",
+      {
+       "date": "Jul 31, 2018",
+       "time": "08:25 pm",
        "status": "intransit",
-       "position": "Dalam proses pengiriman ke kota tujuan"
-     },
-     {
-       "date": "Aug 01, 2018",
-       "time": "03:08 am",
-       "status": "intransit",
-       "position": "Dalam proses pengiriman ke kota tujuan"
+       "position": "Diterima di sales counter"
      },
      {
        "date": "Jul 31, 2018",
@@ -23,16 +17,29 @@
        "position": "Diterima di fasilitas kota asal"
      },
      {
-       "date": "Jul 31, 2018",
-       "time": "08:25 pm",
+       "date": "Aug 01, 2018",
+       "time": "03:08 am",
        "status": "intransit",
-       "position": "Diterima di sales counter"
+       "position": "Dalam proses pengiriman ke kota tujuan"
      },
      {
-       "date": "Jul 31, 2018",
-       "time": "08:25 pm",
+       "date": "Aug 04, 2018",
+       "time": "09:59 am",
        "status": "intransit",
-       "position": "finish"
-     }
+       "position": "Diterima di kota tujuan"
+     },
+     {
+       "date": "Aug 05, 2018",
+       "time": "11:50 am",
+       "status": "intransit",
+       "position": "Dalam proses pengiriman ke alamat tujuan"
+     },
+     {
+       "date": "Aug 05, 2018",
+       "time": "14:10 am",
+       "status": "delivered",
+       "position": "alamat tujuan"
+     },
+
    ]
   }
